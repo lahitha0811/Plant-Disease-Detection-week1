@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-week1
+# Plant-Disease-Detection
